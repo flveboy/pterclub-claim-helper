@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.user.js  text eol=lf
+*.js       text eol=lf
+*.py       text eol=lf
+*.md       text eol=lf
+*.json     text eol=lf
+
+*.png      binary
