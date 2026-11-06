@@ -1,0 +1,15 @@
+{
+  "name": "pterclub-claim-helper",
+  "version": "2.1.0",
+  "description": "PT 站点（pterclub）做种列表批量认领 / 取消认领的油猴脚本",
+  "private": true,
+  "scripts": {
+    "mock": "python3 test/mock_server.py",
+    "test": "node test/run_test.js",
+    "shots": "node test/shot.js"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.0.0"
+  },
+  "license": "MIT"
+}
